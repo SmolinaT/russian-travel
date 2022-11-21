@@ -1,0 +1,8 @@
+.list__item {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+  color: #FFFFFF;
+  margin: 0;
+  list-style-type: none;
+}
