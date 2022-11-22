@@ -7,8 +7,6 @@
   margin: 0;
   opacity: 1;
   transition: opacity 1s linear 0.5s;
-  position: absolute;
-  bottom: 0;
 }
 
 .place__link:hover {
